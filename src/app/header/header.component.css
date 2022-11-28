@@ -1,5 +1,5 @@
 .main-header {    
-    padding: 10px;
+    padding: 10px 0px;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
@@ -58,14 +58,13 @@
 }
 
 .search-form{
-    padding:10px;
-    height: 20px;
-    display:flex;
+    height: 44px;
+    display: flex;
 }
 
 .search-form input{
     box-sizing: border-box;
-    height: 10px;
+    height: 56px;
     padding: 28px;
     flex:1;
     background-color: var(--light-gray);
